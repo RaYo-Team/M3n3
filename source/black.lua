@@ -11796,11 +11796,11 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = ' 🖤 𝑱𝑨𝑪𝑲 🖤', url = 't.me/JJJ22J'}, 
+{text = ' Ᏼ Ξ Ꭱ Ｏ', url = 't.me/JJJ22J'}, 
 },
 }
 }
-return send(msg_chat_id,msg_id,"[🖤 𝑱𝑨𝑪𝑲 🖤](tg://user?id=1390519416)","md",true, false, false, true, reply_markup)
+return send(msg_chat_id,msg_id,"[Ᏼ Ξ Ꭱ Ｏ](tg://user?id=1390519416)","md",true, false, false, true, reply_markup)
 end
 
 if text == 'ابو المجد' then
@@ -11808,7 +11808,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = ' 𝐴𝐵𝑂 𝐴𝐿𝑀𝐴𝐺𝐷', url = 't.me/MO_ABO_el'}, 
+{text = ' H e X a R', url = 't.me/snsnsn'}, 
 },
 }
 }
@@ -14102,7 +14102,7 @@ local reply_markup = LuaTele.replyMarkup{
 type = 'inline',
 data = {
 {
-{text = '✘ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘴𝘦𝘳𝘰  ✘️', url = 't.me/SeroBots'}, 
+{text = '✘ 𝘴𝘰𝘶𝘳??𝘦 𝘴𝘦𝘳𝘰  ✘️', url = 't.me/SeroBots'}, 
 },
 }
 }
@@ -14744,7 +14744,7 @@ data = {
 {text = '0', data = msg.sender.user_id..'calc&0'},{text = '.', data = msg.sender.user_id..'calc&.'},{text = '+', data = msg.sender.user_id..'calc&+'},{text = '=', data = msg.sender.user_id..'equal'},
 },
 {
-{text = 'مطور السورس', url = 'https://t.me/php57'},
+{text = 'مطور السورس', url = 'https://t.me/JJJ22J'},
 },
 }
 }
@@ -15218,20 +15218,22 @@ end
 if text == 'السورس' or text == 'سورس' or text == 'يا سورس' or text == 'source' then
 photo = "https://t.me/photojack14366/58"
 local T =[[
-ــــــــــــــــــــــ✘ـــــــــــــــــــــ
- ✘ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘴𝘦𝘳𝘰  ✘
-ــــــــــــــــــــــ✘ـــــــــــــــــــــ
-✘ 𝐷𝐸𝑉 >> [˹ 𝐽𝐴𝐶𝐾 .](t.me/PHP57)
-ــــــــــــــــــــــ✘ـــــــــــــــــــــ 
-✘ 𝐷𝐸𝑉 >> [˹ 𝐴𝐵𝑂 𝐴𝐿𝑀𝐴𝐺𝐷 .](t.me/MO_ABO_el)
-ــــــــــــــــــــــ✘ـــــــــــــــــــــ 
-✘ـــ✘ >> [˹ 𝘴𝘰𝘶𝘳𝘤𝘦 𝘴𝘦𝘳𝘰  .](t.me/SeroBots)
-ــــــــــــــــــــــ✘ـــــــــــــــــــــ 
+
+⦑ Welcome to Source ⦒
+✘ ⦑ SOURCE SeRo](t.me/SeroBots) ⦒
+✘ Source version : 1.0
+— — — — — — — — —
+
+✘ ❲ Source Ch ❳(t.me/SeroBots)
+
+✘ ❲ Programmer ❳(t.me/JJJ22J)
+
+✘ ❲ Help Group ❳(t.me/https://t.me/Sero_Chat)
 ]]
 keyboard = {} 
 keyboard.inline_keyboard = {
 {
-{text = '🖤 𝑱𝑨𝑪𝑲 🖤', url = "https://t.me/JJJ22J"},
+{text = 'Ᏼ Ξ Ꭱ Ｏ', url = "https://t.me/JJJ22J"},
 },
 {
 {text = '𝘴𝘰𝘶𝘳𝘤𝘦 𝘴𝘦𝘳𝘰  ', url = "https://t.me/SeroBots"}
@@ -17721,7 +17723,7 @@ data = {
 {text = '0', data = IdUser..'calc&0'},{text = '.', data = IdUser..'calc&.'},{text = '+', data = IdUser..'calc&+'},{text = '=', data = IdUser..'equal'},
 },
 {
-{text = 'مطور السورس', url = 'https://t.me/php57'},
+{text = 'مطور السورس', url = 'https://t.me/JJJ22J'},
 },
 }
 }
